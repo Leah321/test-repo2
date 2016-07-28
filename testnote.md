@@ -8,7 +8,7 @@
 * edit new.md using notepad and save
 * $git add .
 * $git status
-* $git commit -m "edit readme and add new md"
+* $git commit -m "edit readme and add new.md"
 * $git status
 * $git log
 * $git push origin master
